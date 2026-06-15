@@ -1,3 +1,12 @@
+---
+title: GoTo Bengaluru
+emoji: 🗺️
+colorFrom: orange
+colorTo: yellow
+sdk: docker
+pinned: false
+---
+
 # GoTo Bengaluru
 
 Discover places to go in Bengaluru — cafes, parks, breweries, events, and more — via a swipe-style interface powered by semantic search.
