@@ -31,7 +31,10 @@ export default function SwipeDeck({ places, onRestart }: SwipeDeckProps) {
   return (
     <div className="relative flex h-full min-h-screen flex-col items-center justify-center overflow-hidden px-4 py-6">
       <div className="absolute left-0 right-0 top-0 flex items-center justify-between px-6 pt-4">
-        <h1 className="font-display text-xl font-bold tracking-tight text-ink">
+        <h1
+          className="cursor-pointer font-display text-xl font-bold tracking-tight text-ink"
+          onClick={onRestart}
+        >
           Go<span className="text-coral">-</span>To
         </h1>
         <span className="font-display text-xs font-semibold uppercase tracking-[0.25em] text-ink/40">

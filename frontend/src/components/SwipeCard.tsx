@@ -33,7 +33,7 @@ export default function SwipeCard({ place, isTop, stackIndex, onSwipeLeft, onSwi
       className="absolute inset-0 m-auto h-[68vh] max-h-[600px] w-[88vw] max-w-sm cursor-grab overflow-hidden rounded-3xl border-2 border-ink bg-white shadow-hard active:cursor-grabbing"
       style={isTop ? { x, rotate } : undefined}
       initial={false}
-      animate={!isTop ? { scale, y: yOffset, opacity: stackIndex < 3 ? 1 : 0 } : undefined}
+      animate={isTop ? { scale: 1, y: 0, opacity: 1 } : { scale, y: yOffset, opacity: stackIndex < 3 ? 1 : 0 }}
       drag={isTop ? 'x' : false}
       dragConstraints={{ left: 0, right: 0 }}
       dragElastic={1}

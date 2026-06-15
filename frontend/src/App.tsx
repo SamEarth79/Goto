@@ -30,7 +30,8 @@ export default function App() {
     try {
       const { lat, lng } = await getLocation()
       const results = await fetchPlaces(lat, lng, searchQuery.trim() || DEFAULT_QUERY)
-      setPlaces(results)
+      const seen = new Set<string>()
+      setPlaces(results.filter(p => seen.has(p.id) ? false : (seen.add(p.id), true)))
     } catch (err) {
       setError('Could not load places. Please try again.')
       console.error(err)
