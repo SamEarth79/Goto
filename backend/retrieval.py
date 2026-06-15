@@ -23,8 +23,8 @@ from pathlib import Path
 from sentence_transformers import SentenceTransformer
 
 ROOT = Path(__file__).parent
-DATASET_FILE = ROOT / "dataset.json"
-EMBEDDINGS_FILE = ROOT / "embeddings.json"
+DATASET_FILE = ROOT / "data" / "dataset.json"
+EMBEDDINGS_FILE = ROOT / "data" / "embeddings.json"
 
 # Weights when the user's location IS known.
 WEIGHTS_WITH_LOCATION = {"semantic": 0.6, "proximity": 0.25, "rating": 0.15}

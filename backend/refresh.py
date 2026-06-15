@@ -44,9 +44,9 @@ def main():
     t_start = time.time()
 
     if not args.skip_scrape:
-        run("Scraping cafes (Google Maps)", ROOT / "maps_cafe_scraper.py")
-        run("Scraping parks, breweries & attractions (Google Maps)", ROOT / "maps_places_scraper.py")
-        run("Scraping Luma events", ROOT / "luma_scraper.py")
+        run("Scraping cafes (Google Maps)", ROOT / "scrapers" / "maps_cafe_scraper.py")
+        run("Scraping parks, breweries & attractions (Google Maps)", ROOT / "scrapers" / "maps_places_scraper.py")
+        run("Scraping Luma events", ROOT / "scrapers" / "luma_scraper.py")
         run("Building dataset.json", ROOT / "build_dataset.py")
     else:
         print("\n[--skip-scrape] Skipping all scrapers and dataset build.")

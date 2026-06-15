@@ -10,7 +10,8 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).parent
-OUTPUT_FILE = ROOT / "dataset.json"
+DATA_DIR = ROOT / "data"
+OUTPUT_FILE = DATA_DIR / "dataset.json"
 
 PLACE_FILES = {
     "cafe": "maps_cafes.json",
@@ -21,7 +22,7 @@ PLACE_FILES = {
 
 
 def load(filename: str) -> list[dict]:
-    return json.loads((ROOT / filename).read_text())
+    return json.loads((DATA_DIR / filename).read_text())
 
 
 def build_place_record(source: str, item: dict, index: int) -> dict:

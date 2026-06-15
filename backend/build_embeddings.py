@@ -12,8 +12,8 @@ from pathlib import Path
 from sentence_transformers import SentenceTransformer
 
 ROOT = Path(__file__).parent
-DATASET_FILE = ROOT / "dataset.json"
-OUTPUT_FILE = ROOT / "embeddings.json"
+DATASET_FILE = ROOT / "data" / "dataset.json"
+OUTPUT_FILE = ROOT / "data" / "embeddings.json"
 
 MODEL_NAME = "all-MiniLM-L6-v2"
 
