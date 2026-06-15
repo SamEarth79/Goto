@@ -55,7 +55,8 @@ def parse_card(article) -> dict:
     image_url = None
     img_el = article.query_selector(".SpFAAb img, img")
     if img_el:
-        image_url = img_el.get_attribute("src")
+        src = img_el.get_attribute("src") or ""
+        image_url = (src + "=w800") if "googleusercontent.com" in src else src or None
 
     # Top-level detail rows (category/address, description, hours) are each
     # a direct-child ".W4Efsd" of the info container. The first row also

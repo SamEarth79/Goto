@@ -57,31 +57,6 @@ def event_has_ended(record: dict, now: datetime) -> bool:
     return end_dt < now
 
 
-def diversity_shuffle(ranked: list[dict], window: int = 2) -> list[dict]:
-    """Avoid showing the same category more than `window` times in a row.
-
-    Greedily picks the next-best item, but skips ahead to the first item
-    with a different category if the last `window` picks were all the
-    same category.
-    """
-    result = []
-    pending = list(ranked)
-
-    while pending:
-        recent_categories = [r.get("category") for r in result[-window:]]
-        is_streak = len(recent_categories) == window and len(set(recent_categories)) == 1
-
-        chosen_index = 0
-        if is_streak:
-            for i, candidate in enumerate(pending):
-                if candidate.get("category") != recent_categories[0]:
-                    chosen_index = i
-                    break
-
-        result.append(pending.pop(chosen_index))
-
-    return result
-
 
 def search(
     query_text: str,
@@ -128,8 +103,7 @@ def search(
         scored.append({**record, "score": final_score})
 
     scored.sort(key=lambda r: r["score"], reverse=True)
-    top = scored[:top_n]
-    return diversity_shuffle(top)
+    return scored[:top_n]
 
 
 def main():
