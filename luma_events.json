@@ -1,0 +1,1671 @@
+[
+  {
+    "api_id": "evt-18mbKfwYTT0d3Cj",
+    "url": "https://luma.com/unbyq12l",
+    "name": "CyberSwaraj: Digital Privacy for Beginners",
+    "description": "[media: https://images.lumacdn.com/uploads/08/056156b2-1a35-49db-99ff-24677fc8bd72.png]\nForty years later, the feeling he was describing is just daily life. Your phone knows where you slept last night. Your browser knows what you almost bought and changed your mind about. Your keyboard knows what you typed and then deleted. None of this is a secret anymore, it's just something most of us have stopped noticing.\nIf you've ever had a faint sense that something about the internet doesn't feel right anymore, this session is for you.\n​Privacy is not about hiding.\nMost conversations about privacy start by making you feel paranoid. This one won't.\nPrivacy is something ordinary and human. It's the ability to decide what parts of your life get shared, when they get shared, and with whom. In the physical world this feels obvious. You close the door when you change clothes. You lower your voice in a crowded room. You don't hand your diary to a stranger.\nOnline, we've slowly given up all of that, usually without realising we were giving anything up. Each app asks for a small permission. Each service collects a small piece of information. Individually, none of it feels like much. Put together, it forms a surprisingly complete picture of how you live, think, move, and talk to people you love.\nThis session is a starting point for anyone who has never thought seriously about this before. No cybersecurity jargon. No lectures. Just a clear walkthrough of what's happening, why it matters, and what you can do about it this afternoon.\n​What we'll cover\n​\nPart 1: Where privacy actually leaks\nWhy \"I have nothing to hide\" misses the point\nThe difference between privacy, secrecy, and safety\nHow ordinary apps and devices observe and track far more than you think\nWhat changes, slowly and invisibly, when people lose their private space\n​\nPart 2: What you can actually do about it\nOne of our speakers runs an almost entirely open-source setup on his phone. No Google Play Store, no surveillance-heavy apps, just tools built by people who believe your data belongs to you. He'll walk you through what his setup looks like, how he made the choices he made, and the small realistic changes anyone in the room can make on their own phone before they leave.\nAfter the showcase, we'll do a hands-on session together. You'll install a few open-source alternatives, replace a couple of the worst offenders on your device, and leave with a phone that's more private than the one you walked in with.\nPrivacy isn't all-or-nothing. Every small step counts.\n​Who this is for\nThis is not a cybersecurity workshop. No technical jargon. Just honest discussion about something that affects every one of us.\nThis session is a starting point for anyone who hasn't deeply explored the need for privacy before.\nIf you've ever had a faint feeling that \nsomething about the internet doesn’t feel right anymore\n, you'd fit right in the room.\n​What is the 'CyberSwaraj' event series about\nCyberSwaraj is a gathering for anyone interested in digital privacy, open-source tools, and taking back some control over their digital life. We run sessions for beginners, workshops for people ready to go deeper, and occasional deep-dives for the technically curious. Developers, privacy advocates, and people who've simply had enough of being tracked are all welcome.\n[media: https://images.lumacdn.com/uploads/7z/b5a14bfe-4190-4eb1-8879-89c68d30b8b8.png]\nStay Connected\nJoin us on YouTube: \nhttps://www.youtube.com/@CyberSwaraj\n​\nVenue Partner\nBitshala Bitspace\n, HSR Layout Sector 7, Bengaluru.\nJoin Our Community\n: \nhttp://discord.gg/atjEPVTdsQ\nSubscribe to our Calendar:\n \nhttps://lu.ma/bitspace\nContact:\n \n9118592188",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-14T06:30:00.000Z",
+    "end_at": "2026-06-14T09:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/fz/ee4e6c40-c2fb-48cb-a0b0-b92197f190d9.jpg",
+    "social_image_url": "https://images.lumacdn.com/event-social/qp/90468543-a335-4d3f-b0f5-89b8aad6f3b3.png",
+    "location": {
+      "address": "Olsen Spaces Sector 7, Site no, 1165, 5th Main Rd, 7th Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "short_address": "Site no, Olsen Spaces, 1165, 5th Main Rd, 7th Sector, HSR Layout, Bengaluru",
+      "venue_name": "Olsen Spaces Sector 7",
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "7th Sector",
+      "latitude": 12.911299099999999,
+      "longitude": 77.6326277
+    },
+    "calendar": {
+      "name": "Bitshala Bitspace Events and Meetups",
+      "slug": "bitspace",
+      "description_short": "\"Isn't it too late to get into Bitcoin?\" NO, it's not!\n\nJoin our Bitcoin-only community for fun meetups, technical BITDEVS, hands-on workshops, and discussions on privacy, freedom tech, and much more!",
+      "website": "https://bitshala.org/",
+      "avatar_url": "https://images.lumacdn.com/calendars/84/163cd4e9-5498-4315-b422-ae128b4e88f7",
+      "twitter_handle": "bitshala",
+      "instagram_handle": null,
+      "linkedin_handle": null
+    },
+    "hosts": [
+      {
+        "name": "paperpsych",
+        "username": "paperpsych",
+        "bio_short": null,
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/avatars/hy/e1703d82-dc64-4750-9685-638355b922ae",
+        "twitter_handle": "_paperpsych",
+        "instagram_handle": "theayushrajpal",
+        "linkedin_handle": "/in/idonthaveone",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      },
+      {
+        "name": "madkilla",
+        "username": null,
+        "bio_short": null,
+        "website": null,
+        "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_21.png",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": null,
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      },
+      {
+        "name": "Bitshala Bitspace",
+        "username": "bitspace",
+        "bio_short": "",
+        "website": "https://bitshala.org/bitspace/",
+        "avatar_url": "https://images.lumacdn.com/avatars/ge/982ea403-8de1-4bcb-9c7f-49388cd92532",
+        "twitter_handle": "bitshala",
+        "instagram_handle": null,
+        "linkedin_handle": "/in/sorry (I don't have one)",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "Tech",
+        "slug": "tech"
+      }
+    ],
+    "ticket_info": {
+      "is_free": true,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": null,
+      "require_approval": false
+    },
+    "guest_count": 211,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-x8ezIdkgEmPbFsK",
+    "url": "https://luma.com/LazySunday",
+    "name": "Sunday Lazy Brunch with Laughs & Jams",
+    "description": "Just like you, we think Sundays should be lazy. But they should also be about laughs, getting together with a good gang of friends late in the afternoon, be audacious enough to call it brunch after 2pm, with a beautiful poolside view of Whitefield, while some of Bangalore's best underground comics & musicians entertain you on a dreamy stage.\nExpect Pizza, great vibes, and an easygoing crowd. Wake up late on Sunday, arrive by 2pm & leave by 6 so you're fresh & early for your Monday blues.\nNo Entry fees | Gateway at Whitefield | Sun 2pm Onwards",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-14T08:30:00.000Z",
+    "end_at": "2026-06-14T13:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/zb/7d5d5d4e-551b-4457-b3c6-4dc750f4eb37.png",
+    "social_image_url": "https://images.lumacdn.com/event-social/up/ea365a46-2a2b-4c65-960f-11a454f6806d.png",
+    "location": {
+      "address": "Project Gateway, 2P9H+M75 Sai Serenity Layout, Virgonagar Industrial Estate, Aavalahalli, Bengaluru, Karnataka 560049, India",
+      "short_address": "2P9H+M75 Sai Serenity Layout, Virgonagar Industrial Estate, Aavalahalli, Bengaluru",
+      "venue_name": "Project Gateway",
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "Virgonagar Industrial Estate",
+      "latitude": 13.019174999999999,
+      "longitude": 77.72823060000002
+    },
+    "calendar": {
+      "name": "Gate",
+      "slug": "gate",
+      "description_short": "Gate for Creators, Founders, Innovators, Travelers, Crypto Enthusiasts & everyone who believes in their creative potential.\n\nDiscover jams, city thrills, founder meets, hackathons, residencies & more.",
+      "website": null,
+      "avatar_url": "https://images.lumacdn.com/uploads/9h/5bac4ba6-4894-4a1c-9f1f-c33d7113dc71.png",
+      "twitter_handle": "shawm42",
+      "instagram_handle": "thatnewactor",
+      "linkedin_handle": null
+    },
+    "hosts": [
+      {
+        "name": "pushyami",
+        "username": "pushyami",
+        "bio_short": null,
+        "website": null,
+        "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_42.png",
+        "twitter_handle": null,
+        "instagram_handle": "meetpush",
+        "linkedin_handle": "/in/pushyami-goli",
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      },
+      {
+        "name": "shawm \\z/",
+        "username": null,
+        "bio_short": "Clark Kent of Zo World and Nouns.one of",
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/avatars/jo/037d2467-b258-4e61-a272-cef7fbdaf696",
+        "twitter_handle": "shawm42",
+        "instagram_handle": "thatnewactor",
+        "linkedin_handle": "/in/shomprakash",
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "Arts & Culture",
+        "slug": "arts"
+      }
+    ],
+    "ticket_info": {
+      "is_free": true,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": null,
+      "require_approval": false
+    },
+    "guest_count": 115,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-Qnb36UC79BKCd67",
+    "url": "https://luma.com/gudv4rml",
+    "name": "An Evening of Books & Conversations 📚☕ 🌿",
+    "description": "Koramangala Book Club is back 🌿📚\nAfter a short break, we’re excited to host our next meetup and return to our favorite format,  bringing people together through books, quiet reading, and good conversations.\nWe are introducing a fun game this time to make the book club more interactive.\nBring your current read, an old favorite, or the book you’ve been meaning to finish.\nThis isn’t a traditional book club with assigned reading or fixed discussion topics. Everyone brings their own book, reads at their own pace, and joins conversations whenever they feel like it.\nRead for a while. Take a break. Talk about books, ideas, life, work, history, philosophy or anything interesting that comes up.\nWhether you read fiction, non-fiction, poetry, self-help, history, science, or something in between, you’re welcome.\nWe’ll be meeting at \nBBMP Park, Koramangala\n for a relaxed Sunday evening with fellow readers.\nOnce you arrive, feel free to reach out to the hosts - Devyani & Kailash.\nBring your book, maybe some water, and join us.\nDate:\n Sunday, 14th June\nTime:\n 4:00 PM – 6:00 PM\nVenue:\n BBMP Park, Koramangala",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-14T10:30:00.000Z",
+    "end_at": "2026-06-14T12:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/yp/8fa36080-483d-451b-bd28-b386c05ff411.png",
+    "social_image_url": "https://images.lumacdn.com/event-social/71/37b653a1-7d02-4050-8373-0ff357825045.png",
+    "location": {
+      "address": "BBMP Park, WJJG+CM5, 4th Block, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+      "short_address": "WJJG+CM5, 4th Block, 5th Block, Koramangala, Bengaluru",
+      "venue_name": "BBMP Park",
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "5th Block",
+      "latitude": 12.931024299999999,
+      "longitude": 77.62674179999999
+    },
+    "calendar": {
+      "name": "Koramangala Book Club",
+      "slug": "kormangalaBookClub",
+      "description_short": "sunday weekly book club at BBMP park, koramangala",
+      "website": null,
+      "avatar_url": "https://cdn.lu.ma/avatars-default/community_avatar_3.png",
+      "twitter_handle": null,
+      "instagram_handle": null,
+      "linkedin_handle": null
+    },
+    "hosts": [
+      {
+        "name": "Kailash A",
+        "username": "kailash",
+        "bio_short": "",
+        "website": "https://kailashahirwar.medium.com/",
+        "avatar_url": "https://images.lumacdn.com/avatars/nv/8a83433f-fb42-440f-9a4c-9f401ea195c5",
+        "twitter_handle": "Ahkailash1",
+        "instagram_handle": "kailashahirwar1",
+        "linkedin_handle": "/in/kailash-ahirwar-b1a59128",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      },
+      {
+        "name": "Devyani",
+        "username": null,
+        "bio_short": "",
+        "website": null,
+        "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_22.png",
+        "twitter_handle": "na",
+        "instagram_handle": null,
+        "linkedin_handle": null,
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "Arts & Culture",
+        "slug": "arts"
+      }
+    ],
+    "ticket_info": {
+      "is_free": true,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": null,
+      "require_approval": false
+    },
+    "guest_count": 86,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-0Do0LqHc3XSPgTq",
+    "url": "https://luma.com/3lfob5ux",
+    "name": "Mango Maxxing",
+    "description": "We are doing another tokenmaxers gathering at HQ, this time with mangoes plucked off our own lawn.\nSame spirit as The Claude Room: no slides, no fluff, just heavy AI users in one place sharing how they actually work. The mangoes are just an excuse!\nIf you are a token-maxxer we would love for you to share with us just one genuinely unique thing you have built with AI that you would want everyone in the room to see. The weirder and more personal, the better. You will get a chance to show it and walk the room through it.\nYou will leave with workflows you had not thought of or debates on all the mangoes you have had.\nBring your best stuff. See you there!",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-14T12:30:00.000Z",
+    "end_at": "2026-06-14T15:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/me/f4419400-9746-41f4-91e2-51271055ad23.png",
+    "social_image_url": "https://images.lumacdn.com/event-social/vx/2f99acfe-a0eb-4ef4-b8f5-251592770070.png",
+    "location": {
+      "address": null,
+      "short_address": null,
+      "venue_name": null,
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "HAL 2nd Stage",
+      "latitude": 12.971978490671907,
+      "longitude": 77.64281939605311
+    },
+    "calendar": {
+      "name": "Personal",
+      "slug": null,
+      "description_short": null,
+      "website": null,
+      "avatar_url": "https://cdn.lu.ma/avatars-default/community_avatar_10.png",
+      "twitter_handle": null,
+      "instagram_handle": null,
+      "linkedin_handle": null
+    },
+    "hosts": [
+      {
+        "name": "Niket Raj Dwivedi",
+        "username": null,
+        "bio_short": "Growth. Tech. 2x entrepreneur.",
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/avatars/v3/d99a8f78-ed3b-44f6-9144-c30c06bf2ce7",
+        "twitter_handle": "niketrajdwivedi",
+        "instagram_handle": "niketrajdwivedi",
+        "linkedin_handle": "/in/niketraj",
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      },
+      {
+        "name": "Jay Gadekar",
+        "username": "jay_shram",
+        "bio_short": "CEO at Shram",
+        "website": "https://www.shram.ai/beta",
+        "avatar_url": "https://images.lumacdn.com/avatars/6d/5c9216e9-995b-4775-aa09-d7cbe8ca8ab7.jpg",
+        "twitter_handle": "gadekarjay30",
+        "instagram_handle": null,
+        "linkedin_handle": "/in/jaygadekar",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      },
+      {
+        "name": "Ojasvika Sahu",
+        "username": "ozacle23",
+        "bio_short": "Co-founder of Shram",
+        "website": "https://www.shram.ai",
+        "avatar_url": "https://images.lumacdn.com/avatars/67/61dbcad2-ff43-41d4-8cc8-d759b4cf88f3.jpg",
+        "twitter_handle": "ozacle23",
+        "instagram_handle": null,
+        "linkedin_handle": "/in/ojasvika-sahu",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      },
+      {
+        "name": "Dhanishta",
+        "username": null,
+        "bio_short": null,
+        "website": null,
+        "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_19.png",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": null,
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "AI",
+        "slug": "ai"
+      }
+    ],
+    "ticket_info": {
+      "is_free": false,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": 8,
+      "require_approval": true
+    },
+    "guest_count": 42,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-Kyh0qOyg47XQYf3",
+    "url": "https://luma.com/m08umos6",
+    "name": "From Bangalore to the Bay: The India→US Founder Journey",
+    "description": "The playbook for going global from India has changed. The infrastructure is better, the networks are denser, and US investors are paying attention in ways they weren't five years ago. But the hard questions haven't gone away: when to go, how to split the team, what you'll get wrong before you get it right.\nThis evening brings together founders who've made the leap, and an investor who's watched many of them do it for an honest conversation about what the journey actually looks like.\nAgenda:\n6:00 – 6:30: \nRegistration\n6:30 – 6:45:\n India → US investment trends (by Lightspeed)\n6:45 – 7:30:\n Fireside Chat: Founders who have successfully navigated the India → US transition\n7:30 – 7:45: \nOpen Q&A\n7:45 onwards: \nNetworking\nAbout Aspire:\nAspire\n is the all-in-one finance platform for modern businesses globally, helping over 50,000 companies save time and money with international payments, treasury, expense, payable, and receivable management solutions - accessible via a single, user-friendly account.  \nHeadquartered in Singapore, Aspire has 600+ employees across nine countries, clients in 30+ markets and is backed by global top tier VCs, including Sequoia, Lightspeed, Y-Combinator, Tencent and Paypal.\nAbout Lightspeed:\nLightspeed\n is a global multi-stage venture capital firm focused on accelerating disruptive innovations in Enterprise, Consumer, Health, and Fintech sectors.\nOver the past two decades, Lightspeed has backed hundreds of entrepreneurs and helped build more than 500 companies globally, including Anthropic, Mistral, Pika, Suno, Emergent, Sarvam, Zepto, Nutanix, Razorpay, and OYO.",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-17T12:30:00.000Z",
+    "end_at": "2026-06-17T15:00:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/kc/f725e450-ffe2-4386-828f-cb0b0592e216.png",
+    "social_image_url": "https://images.lumacdn.com/event-social/44/905f4465-b2df-4345-86e1-a6e264e813ec.png",
+    "location": {
+      "address": null,
+      "short_address": null,
+      "venue_name": null,
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "Doopanahalli",
+      "latitude": 12.965918025585609,
+      "longitude": 77.63537175541735
+    },
+    "calendar": {
+      "name": "Aspire Events",
+      "slug": "aspire_events",
+      "description_short": "",
+      "website": "https://aspireapp.com/",
+      "avatar_url": "https://images.lumacdn.com/calendars/v4/f4b491f8-a4ce-4958-9d91-1a022b312c67",
+      "twitter_handle": null,
+      "instagram_handle": null,
+      "linkedin_handle": null
+    },
+    "hosts": [
+      {
+        "name": "Varun Kashyap",
+        "username": null,
+        "bio_short": null,
+        "website": null,
+        "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_40.png",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": null,
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      },
+      {
+        "name": "Finnley Lee",
+        "username": null,
+        "bio_short": null,
+        "website": null,
+        "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_18.png",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": "/in/finnleyleehuiyu",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      },
+      {
+        "name": "Nandini Singh",
+        "username": null,
+        "bio_short": null,
+        "website": null,
+        "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_35.png",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": "/in/Test",
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      },
+      {
+        "name": "Lightspeed",
+        "username": "lightspeedindia",
+        "bio_short": "",
+        "website": "https://lsip.com",
+        "avatar_url": "https://images.lumacdn.com/avatars/ar/32006f86-4499-435e-a86e-e284a51b1b84.png",
+        "twitter_handle": "lightspeedindia",
+        "instagram_handle": null,
+        "linkedin_handle": "/company/lightspeed-india",
+        "tiktok_handle": null,
+        "youtube_handle": "https://www.youtube.com/channel/UCXpiRa26chlVJfm5Ef0NEdw",
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "Tech",
+        "slug": "tech"
+      }
+    ],
+    "ticket_info": {
+      "is_free": false,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": true,
+      "spots_remaining": 0,
+      "require_approval": true
+    },
+    "guest_count": 0,
+    "registration_availability": "waitlist",
+    "waitlist_active": true
+  },
+  {
+    "api_id": "evt-3AocbNThe5CFEmQ",
+    "url": "https://luma.com/fnsbxsln",
+    "name": "Beyond Scaling: Making Large Language Models Efficient",
+    "description": "Transformer architectures have enabled the rapid progress of modern language models, but scaling them efficiently remains a major challenge. As models grow larger, compute cost, memory usage, inference latency, and deployment complexity increase significantly.\nIn this session, Abhay will discuss practical research directions to improve transformer efficiency in small and medium-sized language models.\nThe talk will cover architectural experiments, training optimisations, efficient attention mechanisms, memory-efficient techniques, and inference-focused design choices being explored while building open-source LLMs at FrontiersMind.\nSpeaker:\n \nAbhay Kumar is a co-founder of FrontiersMind, an AI research lab focused on efficient small and medium-sized language models optimised for enterprise and real-world deployment use cases.\nHugging Face: - \nhttps://huggingface.co/FrontiersMind\nLinkedIn:  \nhttps://www.linkedin.com/in/akanyaani/\nTo attend online:\n⁠Add to calendar: \nhttps://shorturl.at/rGZU1\nGmeet link: \nmeet.google.com/uzb-mmdh-wjs\nPre-read:\n⁠Basics of Transformer architectures\nThe Illustrated Transformer\nMemory-Efficient Attention: MHA vs. MQA vs. GQA vs. MLA\nUnderstanding DeepSeek's Multi-Head Latent Attention\nLooking forward to seeing you!",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-17T13:00:00.000Z",
+    "end_at": "2026-06-17T14:00:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/mm/bdc4e51d-13b1-4390-a1a1-ffc673740dc8.png",
+    "social_image_url": "https://images.lumacdn.com/event-social/88/4990a958-b8cd-4a05-8cee-e92e4c6ec11f.png",
+    "location": {
+      "address": null,
+      "short_address": null,
+      "venue_name": null,
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "Binnamangala",
+      "latitude": 12.9795145459255,
+      "longitude": 77.63951504242924
+    },
+    "calendar": {
+      "name": "Lossfunk Event Calendar",
+      "slug": "lossfunk",
+      "description_short": "Your friendly neighborhood AI lab",
+      "website": "https://lossfunk.com/",
+      "avatar_url": "https://images.lumacdn.com/calendars/bv/8b27e178-7ff8-4b18-9237-4192db1ecd82.png",
+      "twitter_handle": "lossfunk",
+      "instagram_handle": "lossfunk",
+      "linkedin_handle": "/company/lossfunk"
+    },
+    "hosts": [
+      {
+        "name": "Sourabh Patravale",
+        "username": "lossfunk",
+        "bio_short": "",
+        "website": "https://lossfunk.com/",
+        "avatar_url": "https://images.lumacdn.com/avatars/tk/85dde1da-b055-4d5d-aa06-2d9f488ebd58.jpg",
+        "twitter_handle": "whyloop_",
+        "instagram_handle": "lossfunk",
+        "linkedin_handle": "/in/sourabh-patravale-b260451b4",
+        "tiktok_handle": null,
+        "youtube_handle": "Lossfunk",
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "AI",
+        "slug": "ai"
+      }
+    ],
+    "ticket_info": {
+      "is_free": true,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": null,
+      "require_approval": true
+    },
+    "guest_count": 14,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-dTwNoKVbEzyAAMU",
+    "url": "https://luma.com/blr-june-dev-meetup",
+    "name": "Agents & APIs Bengaluru Developer Meetup",
+    "description": "Join us for another awesome \nAgents and APIs Developer Meetup\n brought to you by Postman!\nYou'll have a great time learning, making new friends, watching live demos, and enjoying delicious small bites!\nSpeakers\nSrinivas Kini P\n , Senior Engineer, \nPostman\nZaid Zaim\n, Developer Advocate, \nNeo4j\nVedanta Bhutani\n, SDE 2, \nPostman\nSpace is limited. Register today. See you soon!\n💬 \nKeep the Conversation Going\nJoin us in the \nPostman Discord server \nto gain access to resources shared by the speakers.\n❤️ \nAccessibility\nPlease let us know about any accessibility needs at least three weeks before the event. We will do our best to accommodate.\n👩🏽‍⚖️ \nLegal Stuff\nBy signing up you agree: Postman, Inc. can send me updates and news about its products and services. I can unsubscribe anytime using the link in an email or by contacting Postman.",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-19T12:00:00.000Z",
+    "end_at": "2026-06-19T15:00:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/g0/581830e2-163a-47ec-b638-6acf38162f1a.png",
+    "social_image_url": "https://images.lumacdn.com/event-social/j3/c79d1b9c-43a6-4bb0-9f7d-05ec8ecade8d.png",
+    "location": {
+      "address": null,
+      "short_address": null,
+      "venue_name": null,
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "Doopanahalli",
+      "latitude": 12.968929690986188,
+      "longitude": 77.6351300630386
+    },
+    "calendar": {
+      "name": "Postman Developer Events",
+      "slug": "postman-dev-events",
+      "description_short": "",
+      "website": "https://postman.com",
+      "avatar_url": "https://images.lumacdn.com/calendars/re/a8b2ecba-aaba-48bf-86bd-fc22f51d901b.png",
+      "twitter_handle": "getpostman",
+      "instagram_handle": "getpostman",
+      "linkedin_handle": "/company/postman-platform"
+    },
+    "hosts": [
+      {
+        "name": "Aanchal Mishra",
+        "username": null,
+        "bio_short": "Developer Relations APAC & ME @postman | Community Builder | Educator",
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/avatars/mk/46c8e4e9-213d-4458-8471-eef6b016c36b.jpg",
+        "twitter_handle": "Aanchalmishra__",
+        "instagram_handle": "iaanchalmishra",
+        "linkedin_handle": "/in/mishra-aanchal",
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "AI",
+        "slug": "ai"
+      }
+    ],
+    "ticket_info": {
+      "is_free": true,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": true,
+      "spots_remaining": 0,
+      "require_approval": false
+    },
+    "guest_count": 450,
+    "registration_availability": "waitlist",
+    "waitlist_active": true
+  },
+  {
+    "api_id": "evt-BQeqQ0t1Se7V6NP",
+    "url": "https://luma.com/k3n0p25x",
+    "name": "Agent Dev-Sprint: Build, Deploy, and Battle",
+    "description": "Ready to move past basic prompting and build AI that actually \ndoes\n things?\nWelcome to \nAgent Dev-Sprint\n—a high-velocity, hands-on one-day event designed for developers, engineers, and AI builders to master autonomous agent architectures and put their code to the test in a live, gamified arena.\nWhether you are looking to orchestrate LLM inference, implement advanced tool-use, or figure out how to keep agents from looping endlessly, this sprint bridges the gap between raw theory and production-ready execution.\n🏎️ The Event Flow\nWe move fast. The day is structured into high-impact \"Laps\" to take you from a blank IDE to a competing agent by sunset.\nLap 1: The Warm-Up (Technical Deep Dives):\n Learn the core pillars of agent architecture—Perception, Reasoning (ReAct/Chain-of-Thought), and Tool-Calling.\nLap 2: The Straightaway (Hacking Phase 1):\n Set up your environment using our starter kits, build your core logic, and test local execution loops.\nThe Pit Stop (Lunch & Mentorship):\n Refuel, network, and unblock your code with hands-on help from our expert mentors.\nLap 3: The Final Corner (Optimization):\n Fine-tune your prompts, integrate custom tools, and run sandbox simulations to prepare for the tournament.\nThe Checkered Flag (The Arena Showdown):\n Deploy your agent endpoint to the live leaderboard and watch them battle it out head-to-head in a gamified environment.\n🛠️ Guided by Experts. Built by You.\nYou won't be building in isolation. Throughout the day, you’ll have direct access to industry experts specializing in artificial intelligence and solutions architecture to help you debug your reasoning chains, optimize context windows, and sharpen your agent’s decision-making matrix.\n🎮 Inside the Agent Arena\nThe grand finale of the Dev-Sprint is the \nAgent Arena\n. Your custom-built autonomous creations will be unleashed into a live, gamified simulation environment. They will have to parse dynamic data, utilize APIs to make strategic decisions, and react to real-time events to climb the leaderboard and claim ultimate bragging rights.\n📌 Logistics\n📅 Date:\n June 20th, 2026\n📍 Location:\n Amadeus, Bangalore\n💻 Bring:\n Your laptop, charger, and a hunger to build. (Starter kits and supported framework boilerplate will be provided).\nSpaces are limited to ensure high-quality mentorship and a stable arena environment. Secure your slot now, build your agent, and dominate the leaderboard!",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-20T05:00:00.000Z",
+    "end_at": "2026-06-20T11:00:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/c5/6444122a-fe82-4aac-bce9-75f84d07dac4.png",
+    "social_image_url": "https://images.lumacdn.com/event-social/7d/9a6ce47e-c91e-4f95-addd-fa71345403f2.png",
+    "location": {
+      "address": "Amadeus Software Labs India Pvt Ltd, 6, Etamin B Block, Prestige Tech Park Internal Rd, Kadubeesanahalli, Marathahalli, Bengaluru, Bellandur Amanikere, Karnataka 560103, India",
+      "short_address": "6, Etamin B Block, PRESTIGE TECH PARK, Prestige Tech Park Internal Rd, Kadubeesanahalli, Marathahalli, Bengaluru, Bellandur Amanikere",
+      "venue_name": "Amadeus Software Labs India Pvt Ltd",
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "Kadubeesanahalli",
+      "latitude": 12.9432779,
+      "longitude": 77.6906075
+    },
+    "calendar": {
+      "name": "Personal",
+      "slug": null,
+      "description_short": null,
+      "website": null,
+      "avatar_url": "https://cdn.lu.ma/avatars-default/community_avatar_13.png",
+      "twitter_handle": null,
+      "instagram_handle": null,
+      "linkedin_handle": null
+    },
+    "hosts": [
+      {
+        "name": "Joinal Ahmed",
+        "username": null,
+        "bio_short": "",
+        "website": null,
+        "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_46.png",
+        "twitter_handle": "in",
+        "instagram_handle": null,
+        "linkedin_handle": "/in/joinalahmed",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      },
+      {
+        "name": "Nikhil R",
+        "username": null,
+        "bio_short": "AI Consultant working for Google Cloud",
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/avatars/v9/23636a0d-0080-422a-b7f3-027f99edb672",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": "/in/nikhilrana9",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "AI",
+        "slug": "ai"
+      }
+    ],
+    "ticket_info": {
+      "is_free": true,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": null,
+      "require_approval": false
+    },
+    "guest_count": 716,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-hFVtANuAE3Gind4",
+    "url": "https://luma.com/dhan-dev-blr",
+    "name": "dhan.dev>_ Bengaluru #02",
+    "description": "After an exciting first edition in Mumbai, \ndhan.dev>_\n is coming to Bengaluru.\ndhan.dev>_\n is a community meetup bringing together developers, traders, algo builders, API users, AI workflow builders, and market enthusiasts exploring the future of programmable trading.\nExpect product showcases from Dhan, conversations around building for the markets, and \nBuild With Us \nsessions. Along with this, get inspired from what other community members are building.\nWant to showcase your build?\nIf you’ve built a trading tool, algo bot, dashboard, AI agent, automation setup, API integration, open-source project, or anything interesting around markets we’d love to hear from you.\nApply here:\n \nhttps://forms.gle/co4YRp1dNZWczN2X8\nIf you want to be in a room with people building what’s next for markets, this is your chance.\nWhether you're building trading systems, experimenting with AI in markets, automating workflows, working with APIs, or simply curious about the future of market infrastructure this meetup is designed for people building at the intersection of technology and markets.\n📍 Venue: To be shared\n🗓️ Date: 20 June 2026, Saturday\n⏰ Time: 11:00 AM – 1:00 PM IST\nThis is a limited-capacity gathering focused on meaningful conversations, real demos, high-signal networking, and community-led learning.\nBuild. Automate. Trade.",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-20T05:30:00.000Z",
+    "end_at": "2026-06-20T07:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/ph/b08eaa1a-2210-4c9f-94d1-6e4647e6710c.png",
+    "social_image_url": "https://images.lumacdn.com/event-social/mz/815cef50-9022-4250-a5d4-83d68bb7b91d.png",
+    "location": {
+      "address": null,
+      "short_address": null,
+      "venue_name": null,
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "Indiranagar",
+      "latitude": 12.980422078102336,
+      "longitude": 77.64056984830731
+    },
+    "calendar": {
+      "name": "Personal",
+      "slug": null,
+      "description_short": null,
+      "website": null,
+      "avatar_url": "https://cdn.lu.ma/avatars-default/community_avatar_14.png",
+      "twitter_handle": null,
+      "instagram_handle": null,
+      "linkedin_handle": null
+    },
+    "hosts": [
+      {
+        "name": "Dhan",
+        "username": "dhan",
+        "bio_short": null,
+        "website": null,
+        "avatar_url": "https://cdn.lu.ma/avatars/k3/e2f64c41-4358-4330-bf25-5919741aec83",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": null,
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "AI",
+        "slug": "ai"
+      }
+    ],
+    "ticket_info": {
+      "is_free": false,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": 163,
+      "require_approval": true
+    },
+    "guest_count": 237,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-idTEWNeJHuKdFhp",
+    "url": "https://luma.com/laravel-48ga",
+    "name": "Laravel Bengaluru: June Meetup",
+    "description": "Laravel Bengaluru is a community of developers who want to help each other master Laravel framework and upskill at various areas of web development, latest technologies, AI, communication and so much more through regular meetups.\nThis June 20th, we have an exciting line-up of speakers talking about various topics related to Laravel and its ecosystem. If you are working in the web space this event is definitely for you.\nAgenda will be updated shortly.",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-20T09:30:00.000Z",
+    "end_at": "2026-06-20T12:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/x1/68f04546-8789-4555-8261-acd13b3eba2b.jpg",
+    "social_image_url": "https://images.lumacdn.com/event-social/qc/6b0dd8ff-a4e3-4baa-8c75-cbe14851cc5a.png",
+    "location": {
+      "address": "Samagata Foundation, Cobalt, 4th floor, 46/1, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "short_address": "Cobalt, 4th floor, 46/1, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru",
+      "venue_name": "Samagata Foundation",
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "Haridevpur",
+      "latitude": 12.9756255,
+      "longitude": 77.6026164
+    },
+    "calendar": {
+      "name": "Laravel",
+      "slug": "laravel",
+      "description_short": "",
+      "website": "https://laravel.com",
+      "avatar_url": "https://images.lumacdn.com/calendars/le/eb13a70f-c466-460c-a476-c2d5b5add727.png",
+      "twitter_handle": "laravelphp",
+      "instagram_handle": null,
+      "linkedin_handle": "/company/laravel"
+    },
+    "hosts": [
+      {
+        "name": "Laravel",
+        "username": null,
+        "bio_short": "",
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/avatars/od/244b344b-ad31-4610-b962-b912b5a1166e",
+        "twitter_handle": "laravelphp",
+        "instagram_handle": null,
+        "linkedin_handle": null,
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      },
+      {
+        "name": "Shruti Balasa",
+        "username": "shrutibalasa",
+        "bio_short": "Full stack web developer & Tech educator. Creating courses, eBooks, YouTube videos and living the life of my dreams. Co-creating VoxPopSites",
+        "website": "https://shrutibalasa.com/",
+        "avatar_url": "https://images.lumacdn.com/avatars/nl/bc35b053-1c55-4b4b-991b-684adb3c14cf.jpg",
+        "twitter_handle": "shrutibalasa",
+        "instagram_handle": "shruti_balasa",
+        "linkedin_handle": "/in/shrutibalasa",
+        "tiktok_handle": null,
+        "youtube_handle": "thirus",
+        "is_verified": false
+      },
+      {
+        "name": "Tarunkumar N Bagmar",
+        "username": "tarunkumar",
+        "bio_short": "",
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/avatars/l0/84e5389f-f017-4d43-87f0-79abeda62ee4.jpg",
+        "twitter_handle": "greattarun",
+        "instagram_handle": "TarunkumarNBagmar",
+        "linkedin_handle": "/in/tarunkumarnbagmar",
+        "tiktok_handle": null,
+        "youtube_handle": "TarunkumarNBagmar",
+        "is_verified": false
+      },
+      {
+        "name": "Poornima Patil",
+        "username": null,
+        "bio_short": "",
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/avatars/za/1c3ef2ed-eb88-449d-ba08-2ff7432bd20a.jpg",
+        "twitter_handle": "Poornimapatil_",
+        "instagram_handle": null,
+        "linkedin_handle": null,
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "Tech",
+        "slug": "tech"
+      }
+    ],
+    "ticket_info": {
+      "is_free": true,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": true,
+      "spots_remaining": 0,
+      "require_approval": false
+    },
+    "guest_count": 150,
+    "registration_availability": "waitlist",
+    "waitlist_active": true
+  },
+  {
+    "api_id": "evt-z92FezSbiynM2ND",
+    "url": "https://luma.com/qusvdlsb",
+    "name": "Adobe Express & Firefly Creators Camp",
+    "description": "Adobe Express & Firefly Creators Camp with Future Vibes AI, Bengaluru 2026\nJoin us for an exclusive, hands-on creative workshop designed for content creators, designers, marketers, educators, entrepreneurs, and AI enthusiasts.\nLearn how to create faster, smarter, and more impactful content using Adobe Express and Adobe Firefly’s AI-powered creative features. Whether you are just getting started or already exploring AI tools, this session will help you discover practical workflows you can use right away.\nNo prior experience with Adobe Express or Adobe Firefly is required. Beginners and experienced creators are welcome.\nEvent details\nDate: 21 June 2026\nTime: 10:00 AM to 2:30 PM\nLocation: Bengaluru\nVenue: Exact venue details will be shared after registration approval\nSeats: Limited to 50 participants to keep the session interactive and hands-on\nSpeakers\nSurbhi Sondhi, Adobe Firefly Ambassador and AI Educator\nUmesh Nanjundaiah, Adobe Firefly Ambassador and AI Educator\nWhat to expect\n* Hands-on Adobe Express workflows for social media, presentations, and marketing assets\n* Adobe Firefly demos for generating and refining creative visuals\n* Practical use cases for creators, educators, marketers, and entrepreneurs\n* Guided creative exercises you can try during the session\n* Tips to design faster and improve your content creation workflow\n* Creator networking and community building\n* Goodies and surprise takeaways\nLearn. Create. Design faster. Scale your content.\nRequest to join and be part of a hands-on creator learning experience in Bengaluru.\n#AdobeExpress #AdobeFirefly #AdobeCreatorsCamp #FutureVibesAI",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-21T04:30:00.000Z",
+    "end_at": "2026-06-21T08:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/ff/0d277401-b819-414e-92de-a1d82c9e2c15.jpg",
+    "social_image_url": "https://images.lumacdn.com/event-social/2o/6ad15a70-2557-4934-8446-27b9587e82a5.png",
+    "location": {
+      "address": null,
+      "short_address": null,
+      "venue_name": null,
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "ITI Layout",
+      "latitude": 12.900270120169212,
+      "longitude": 77.65279735565186
+    },
+    "calendar": {
+      "name": "Personal",
+      "slug": null,
+      "description_short": null,
+      "website": null,
+      "avatar_url": "https://cdn.lu.ma/avatars-default/community_avatar_8.png",
+      "twitter_handle": null,
+      "instagram_handle": null,
+      "linkedin_handle": null
+    },
+    "hosts": [
+      {
+        "name": "Surbhi Sondhi",
+        "username": null,
+        "bio_short": "🏆AI Filmmaker | Selected @Berlinale EFM 2026\nAmbassador: @AdobeFirefly ·Hedra·Kling AI @Capcutapp |\n120+ AI Campaigns | 40+ Brand Collabs",
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/avatars/r2/052ff9d7-b239-4b37-9de5-9e6e1e5519bb.jpg",
+        "twitter_handle": "FutureVibesAi",
+        "instagram_handle": "FutureVibesAi",
+        "linkedin_handle": "/in/surbhi-futurevibesai-72649b371",
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      },
+      {
+        "name": "Umesh",
+        "username": "umesh_ai",
+        "bio_short": "Creator , Filmmaker, Developer\n\nAdobe Firefly Ambassador",
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/uploads/vo/0134b053-2d65-4cfc-847d-13d0add667fc.png",
+        "twitter_handle": "umesh_ai",
+        "instagram_handle": null,
+        "linkedin_handle": null,
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "AI",
+        "slug": "ai"
+      },
+      {
+        "name": "Arts & Culture",
+        "slug": "arts"
+      }
+    ],
+    "ticket_info": {
+      "is_free": false,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": 50,
+      "require_approval": true
+    },
+    "guest_count": 0,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-h73zpAh3upIm02Q",
+    "url": "https://luma.com/lujs3yc7",
+    "name": "staaake Founders Pic Nic — Reverse Network Meet",
+    "description": "Reverse Networking events can happen anywhere, from parks and co-working spaces to bars, clubs and more.\nInvite the people you've connected with online and meet them all in one place in real life.\nSkip endless coffee meetings and connect with multiple people at once.\nGet on my list:\n\nhttps://www.staaake.in/staaake\nSee more reverse network meets:\n\nhttps://www.reversenetworkmeets.com\nIf you’re a founder or investor, get on the lists. Used at all our events and conferences worldwide.\nFounders 👉 \nhttps://www.staaake.in/founders\nInvestors👉 \nhttps://www.staaake.in/investors\nEvents 👉 \nhttps://www.staaake.in/reversenetwork\nMore 👉 \nstaaake.com",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-21T10:30:00.000Z",
+    "end_at": "2026-06-21T11:30:00.000Z",
+    "timezone": "Asia/Calcutta",
+    "cover_url": "https://images.lumacdn.com/event-covers/1h/45bf229d-68f3-41f9-bc14-65f1228fdeda.png",
+    "social_image_url": "https://images.lumacdn.com/event-social/ml/c7e42ad7-bb71-4d1e-89df-6aba135a3ddf.png",
+    "location": {
+      "address": "Big Old Tree, Cubbon Park, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+      "short_address": "Cubbon Park, Ambedkar Veedhi, Bengaluru",
+      "venue_name": "Big Old Tree",
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "Ambedkar Veedhi",
+      "latitude": 12.976852599999999,
+      "longitude": 77.5945716
+    },
+    "calendar": {
+      "name": "staaake",
+      "slug": "staaake",
+      "description_short": "Get on our visibility list for founders & creators\nhttps://staaake.in/founders\nhttps://staaake.in/investors\nhttps://staaake.in/reversenetwork\n\nhttps://www.whatsapp.com/channel/0029Vb9wzfC6BIEg7UVtRq1Y",
+      "website": "https://www.staaake.com",
+      "avatar_url": "https://images.lumacdn.com/calendars/i2/2a347b17-c5ed-40d3-b021-a7bbbabe601d",
+      "twitter_handle": "staaakeIN",
+      "instagram_handle": "staaake",
+      "linkedin_handle": "/company/staaake"
+    },
+    "hosts": [
+      {
+        "name": "staaake",
+        "username": "staaake",
+        "bio_short": "",
+        "website": "https://www.staaake.com",
+        "avatar_url": "https://images.lumacdn.com/avatars/8r/72fbc6d8-586a-4e55-a484-a7b89ee07b13",
+        "twitter_handle": "staaakeIN",
+        "instagram_handle": "staaake",
+        "linkedin_handle": "/in/rahghosh",
+        "tiktok_handle": "staaakein",
+        "youtube_handle": "staaake",
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "Tech",
+        "slug": "tech"
+      }
+    ],
+    "ticket_info": {
+      "is_free": true,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": null,
+      "require_approval": false
+    },
+    "guest_count": 545,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-OhlppqeXAXi7AsC",
+    "url": "https://luma.com/51fxgzod",
+    "name": "The last spoon.",
+    "description": "THE LAST SPOON\n \nAn Evening by WhatAGai\nThis is not a product launch. Not a talk. Not a networking dinner.\nIt's an experience built around one question —\nDo you actually know what's in the food you eat every day?\nThe evening has a stand-up set, a live skit showing the reality of Indian dairy, hard industry truths you won't be able to ignore — and jalebis made in real A2 Gir Cow Bilona Ghee at the end.\nBecause after everything you hear — you deserve to taste what honest dairy actually feels like.\nWhy attend:\nIf you've ever donated to a Gaushala and bought packaged milk the same week — this evening is for you.\nIf you believe the food you eat should come from care, not compromise — this evening is for you.\nSeats are limited. If you have the link — you're meant to be here.\nWhatAGai — Dairy you don't have to question.",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-21T10:30:00.000Z",
+    "end_at": "2026-06-21T14:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/w3/369b8391-cb24-4f87-8375-e124f12f02de.png",
+    "social_image_url": "https://images.lumacdn.com/event-social/fa/b2616ee0-1aa8-4188-a920-26d4e1a7f5cc.png",
+    "location": {
+      "address": "LIT School, 7th Block, Jayanagar, Bengaluru, Karnataka 560070, India",
+      "short_address": "7th Block, Jayanagar, Bengaluru",
+      "venue_name": "LIT School",
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "7th Block",
+      "latitude": 12.9302216,
+      "longitude": 77.5779493
+    },
+    "calendar": {
+      "name": "Personal",
+      "slug": null,
+      "description_short": null,
+      "website": null,
+      "avatar_url": "https://cdn.lu.ma/avatars-default/community_avatar_5.png",
+      "twitter_handle": null,
+      "instagram_handle": null,
+      "linkedin_handle": null
+    },
+    "hosts": [
+      {
+        "name": "Deep Jain",
+        "username": null,
+        "bio_short": null,
+        "website": null,
+        "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_44.png",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": "/in/deep-jain-a6b9a730a",
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "Food & Drink",
+        "slug": "food"
+      }
+    ],
+    "ticket_info": {
+      "is_free": false,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": 211,
+      "require_approval": true
+    },
+    "guest_count": 140,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-KkhwGADk9x1YjDP",
+    "url": "https://luma.com/0845arv8",
+    "name": "Model to Machine — The Builder Session for Physical AI Infrastructure",
+    "description": "Model to Machine\nA Builder Session on Physical AI Infrastructure\nA closed-door gathering of founders, engineers, operators, and researchers building the infrastructure layer powering Physical AI in India.\nFrom robots on factory floors and vision systems on assembly lines to autonomous vehicles in warehouses, the next wave of AI is moving beyond software and into the physical world. The challenge is no longer proving that AI works. It is building systems that can operate reliably in complex, unpredictable, real-world environments.\nThe questions facing builders today are fundamental:\nIs embodiment a prerequisite for general intelligence, or merely one interface among many? Could a sufficiently capable disembodied intelligence generalize across arbitrary physical form factors, making embodiment largely irrelevant?\nIs the future of robotics a general-purpose humanoid that adapts to the human world, or a collection of highly specialized machines optimized for specific tasks?\nIs the robotics generalization problem fundamentally a data problem, or are there deeper limitations in current architectures and learning paradigms?\nSession Format:\nUnlike traditional conferences, this is a working session designed for practitioners.\n🏭 Live Product Demonstrations\n3-4 startups building at the frontier of Physical AI will demo working products and prototypes, offering a behind-the-scenes look at how these systems are designed, deployed, and operated.\n🔧 Technical Deep Dives\nOpen discussions on the realities of building Physical AI: edge deployment, reliability, infrastructure, robotics stacks, computer vision, model orchestration, and operating in demanding industrial environments.\n🤝 Perspectives from Operators\nFounders and leaders from scaled Physical AI companies will share lessons from the field, hard-won insights, and the challenges they believe will shape the category going forward.\nAgenda:\n4:45 PM\n — Registration & Networking\n5:00 PM\n — Opening Remarks — 3one4 Capital & AWS\n5:30 PM\n — Live Demonstrations from Physical AI Startups\n7:00 PM\n — Open Discussion & Networking\nHosted By\nAWS, the cloud and AI infrastructure powering some of the world's most demanding industrial workloads, and 3one4 Capital, an early-stage venture capital firm backing category-defining companies across deep technology, industrial systems, and Physical AI.",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-24T11:30:00.000Z",
+    "end_at": "2026-06-24T14:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/z6/f5f318f2-2170-4101-9385-ea055fd23101.jpg",
+    "social_image_url": "https://images.lumacdn.com/event-social/ih/47b87691-99ba-4f3c-8139-aaef651e21a7.png",
+    "location": {
+      "address": null,
+      "short_address": null,
+      "venue_name": null,
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "Koramangala 3 Block",
+      "latitude": 12.92968350770463,
+      "longitude": 77.62907741565883
+    },
+    "calendar": {
+      "name": "Personal",
+      "slug": null,
+      "description_short": null,
+      "website": null,
+      "avatar_url": "https://cdn.lu.ma/avatars-default/community_avatar_19.png",
+      "twitter_handle": null,
+      "instagram_handle": null,
+      "linkedin_handle": null
+    },
+    "hosts": [
+      {
+        "name": "3one4 Capital",
+        "username": null,
+        "bio_short": "",
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/avatars/d4/d1b94862-4a5c-4d5c-9afd-fe87bad57556",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": null,
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      },
+      {
+        "name": "Taru Agrawal",
+        "username": "taru",
+        "bio_short": null,
+        "website": null,
+        "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_6.png",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": "/in/taru-raaj-agrawal",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "AI",
+        "slug": "ai"
+      }
+    ],
+    "ticket_info": {
+      "is_free": false,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": 104,
+      "require_approval": true
+    },
+    "guest_count": 16,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-KYHCqNIWjrdfAZ7",
+    "url": "https://luma.com/f4pzbwan",
+    "name": "Blrkotlin X Inmobi - Android Meetup",
+    "description": "Blr Kotlin x InMobi\nJoin the BlrKotlin x Inmobi\nJoin the BlrKotlin x Inmobi! Whether you are building high-performance Android experiences, or exploring the frontiers of Kotlin Multiplatform (KMP), this meetup is designed for you. connect with some of the brightest engineering minds in Bengaluru.\nRsvps are limited so apply soon 🚨🚨\nAgenda\n9:30am - Registration\nTBA\njoin our socials to stay up to date\nWhatsApp - \nhttps://chat.whatsapp.com/IhfWzWNW5d4LrkxBwjYdNd\nX - \nhttps://x.com/BlrKotlin",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-06-27T04:00:00.000Z",
+    "end_at": "2026-06-27T09:00:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/z7/c6b04557-d896-4dfe-87f7-5513877a447c.jpg",
+    "social_image_url": "https://images.lumacdn.com/event-social/x0/a879098c-fd04-4843-8c72-263799c0803b.png",
+    "location": {
+      "address": "InMobi Technology Services Pvt Ltd, 7th Floor, Delta Block, Embassy Tech Square Main Rd, Kaverappa Layout, Kadubeesanahalli, Bengaluru, Karnataka 560103, India",
+      "short_address": "7th Floor, Delta Block, EMBASSY TECH VILLAGE, Embassy Tech Square Main Rd, Kaverappa Layout, Kadubeesanahalli, Bengaluru",
+      "venue_name": "InMobi Technology Services Pvt Ltd",
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "Kaverappa Layout",
+      "latitude": 12.9351369,
+      "longitude": 77.69429319999999
+    },
+    "calendar": {
+      "name": "Blr Kotlin",
+      "slug": "blrKotlin",
+      "description_short": "BlrKotlin is a group of enthusiastic Kotlin developers who love Kotlin. This is the platform for all Kotlin lovers to share and learn their Kotlin experience.",
+      "website": null,
+      "avatar_url": "https://images.lumacdn.com/uploads/z4/9291f402-eb8f-47d4-9ab1-17b465d2336d.png",
+      "twitter_handle": "BlrKotlin",
+      "instagram_handle": null,
+      "linkedin_handle": null
+    },
+    "hosts": [
+      {
+        "name": "Jayesh Seth",
+        "username": null,
+        "bio_short": "A little MAD",
+        "website": "https://animations.jayeshseth.pro",
+        "avatar_url": "https://images.lumacdn.com/uploads/fp/cd2e59a9-28fe-42b8-a3e6-ba5c65156146.jpg",
+        "twitter_handle": "Madflasheroo7",
+        "instagram_handle": null,
+        "linkedin_handle": "/in/jayesh-seth",
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      },
+      {
+        "name": "Chandra Sekhar Nayak",
+        "username": null,
+        "bio_short": "",
+        "website": null,
+        "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_33.png",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": null,
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      },
+      {
+        "name": "Rivu Chakraborty",
+        "username": "rivu",
+        "bio_short": "",
+        "website": "https://www.rivu.dev",
+        "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_38.png",
+        "twitter_handle": "rivuchakraborty",
+        "instagram_handle": "rivu.dev",
+        "linkedin_handle": "/in/rivuchk",
+        "tiktok_handle": null,
+        "youtube_handle": "RivuTalks",
+        "is_verified": false
+      },
+      {
+        "name": "Jai Goyal",
+        "username": "goyaljai",
+        "bio_short": "Senior Software Engineer",
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/uploads/ws/2203572e-43dc-47c6-a437-b3865361913d.jpg",
+        "twitter_handle": null,
+        "instagram_handle": "the._.goyal._.jai",
+        "linkedin_handle": "/in/goyaljai",
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "Tech",
+        "slug": "tech"
+      }
+    ],
+    "ticket_info": {
+      "is_free": false,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": 250,
+      "require_approval": true
+    },
+    "guest_count": 0,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-29uEs7RlJ6uQNaJ",
+    "url": "https://luma.com/ma9oarer",
+    "name": "Stackflow Meetup@Bangalore",
+    "description": "StackFlow Meetup @Bangalore\nAgentic AI: From Development to Deployment\nStackFlow 2.0 is an exclusive meetup curated only for working professionals actively building and growing in their respective tech domains.\n📅 Date: 4th July 2026\n⏰ Time: 9:00 AM – 4:00 PM\nEvent Agenda\n9:00 AM\n – Registration & Networking\n10:00 AM – 11:00 AM\n – Speaker Session 1\n11:00 AM – 12:00 PM\n – Speaker Session 2\n12:00 PM – 1:00 PM\n – Lunch Break & Networking\n1:00 PM – 2:00 PM\n – Speaker Session 3\n2:00 PM – 3:00 PM\n – Speaker Session 4\n4:00 PM\n – Event Wrap-up\nExpect insightful speaker sessions, real-world tech discussions, industry networking, collaborative opportunities, and a chance to connect with professionals shaping the future of technology.\nWhether you are into AI, software engineering, data, cloud, startups, or emerging technologies — StackFlow 2.0 is the place to learn, connect, and grow.",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-07-04T03:30:00.000Z",
+    "end_at": "2026-07-04T09:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/it/499c6371-f79e-471f-98e3-1eac111a34c1.jpg",
+    "social_image_url": "https://images.lumacdn.com/event-social/wr/995359ad-bdae-4f3f-88aa-f0d027c7606b.png",
+    "location": {
+      "address": "One97 Communications Ltd, WJG8+4MC, Old Madiwala, HSR layout Sector 2, 1st Stage, BTM 1st Stage, Bengaluru, Karnataka 560068, India",
+      "short_address": "WJG8+4MC, Zuzuvadi, HSR layout Sector 2, 1st Stage, BTM 1st Stage, Bengaluru",
+      "venue_name": "One97 Communications Ltd",
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "Madiwala New Extension",
+      "latitude": 12.925318899999999,
+      "longitude": 77.6166552
+    },
+    "calendar": {
+      "name": "Hack Briven",
+      "slug": null,
+      "description_short": "",
+      "website": null,
+      "avatar_url": "https://images.lumacdn.com/calendars/n6/1ea0330e-d6e2-487e-9f22-dd2fab763ffb.png",
+      "twitter_handle": null,
+      "instagram_handle": null,
+      "linkedin_handle": "/company/hackbriven"
+    },
+    "hosts": [
+      {
+        "name": "Amit Kumar Dubey",
+        "username": null,
+        "bio_short": null,
+        "website": null,
+        "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_44.png",
+        "twitter_handle": "AmitDub66235903",
+        "instagram_handle": "amit__dubey3",
+        "linkedin_handle": "/in/amit-dubey-1a564b202",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      },
+      {
+        "name": "Hardik",
+        "username": null,
+        "bio_short": null,
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/uploads/16/45757520-0e0d-49e6-97d6-31d7daf7ac91.jpg",
+        "twitter_handle": "HardikSing19654",
+        "instagram_handle": "hardikk_singhhh",
+        "linkedin_handle": "/in/hardik-singh-5b1a60257",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      },
+      {
+        "name": "Sahil Khosla",
+        "username": "sahilkhosla17",
+        "bio_short": "",
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/uploads/8s/df613a4c-f8f4-44f8-b4e3-cc4920e1655d.jpg",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": "/in/sahil-khosla-1a4292a8",
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "AI",
+        "slug": "ai"
+      }
+    ],
+    "ticket_info": {
+      "is_free": false,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": null,
+      "require_approval": true
+    },
+    "guest_count": 120,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-8okoPHE2pl0Nxeu",
+    "url": "https://luma.com/epoq3d3d",
+    "name": "Pipes, Streams, and Queries: Engineering Fast Data at Scale",
+    "description": "Join us in Bangalore for an amazing meetup at the intersection of streaming data and high-performance analytics. Whether you are building real-time pipelines, optimizing query performance at scale, or figuring out how to make streaming and storage work together in production, this event is for you.\nEngineers and architects from ClickHouse and GlassFlow will share practical lessons from the field, covering everything from stream processing and ingestion patterns to sub-second query performance on live data. Connect with the Bangalore Streams community and walk away with ideas you can actually use.\nDon't miss out! RSVP and secure your spot!\n🗓️ Agenda:\n09:30 AM: Registration & networking\n10:30 AM: Welcome & opening\n10:40 AM: Making Postgres Migration Boring With ClickPipes by Amogh Bharadwaj, Senior Software Engineer @ ClickHouse\n11:10 PM: Talk 2 - TBD\n11:30 PM: Break\n11:45 PM: Talk 3 - TBD\n12:15 PM: Closing Remarks\n12:30 PM: Lunch & networking\nIf anyone from the community is interested in sharing a talk at future events, complete this \nCFP form\n and we’ll be in touch.\n🎤 Session: Making Postgres Migration Boring With ClickPipes\nDescription\n: Postgres-to-Postgres migration is still surprisingly manual and error-prone. Moving between providers like RDS and Cloud SQL often requires users to generate schema dumps themselves, and coordinate multiple fragile migration steps manually.\nOn top of that, initial loads can be slow, and many existing solutions lack good progress tracking, observability, and alerting — making migrations difficult to monitor and trust in production.\nIn this talk, I’ll introduce the PG-to-PG ClickPipes we’re building at ClickHouse to make Postgres migration far more seamless.\nSpeaker:\n Amogh Bharadwaj, Senior Software Engineer @ ClickHouse\nI’m Amogh Bharadwaj, a Bangalore-based software engineer and BITS Hyderabad graduate. I was part of the founding team at PeerDB, a Postgres-first ETL platform acquired by ClickHouse, where I now work on managed Postgres and lead efforts around data movement via ClickPipes.",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-07-11T04:00:00.000Z",
+    "end_at": "2026-07-11T08:00:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/yj/c26373a4-0214-48a5-87fe-d723fd3bc4dd.png",
+    "social_image_url": "https://images.lumacdn.com/event-social/7x/c6ba924e-c4ce-4aa4-a7c9-ea0bf4c8b4ba.png",
+    "location": {
+      "address": "Awfis Residency Square, 6, Richmond Rd, Shanthala Nagar, Richmond Town, Bengaluru, Karnataka 560025, India",
+      "short_address": "6, Richmond Rd, Shanthala Nagar, Richmond Town, Bengaluru",
+      "venue_name": "Awfis Residency Square",
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "Shanthala Nagar",
+      "latitude": 12.9656057,
+      "longitude": 77.60033589999999
+    },
+    "calendar": {
+      "name": "ClickHouse Events",
+      "slug": "clickhouse-events",
+      "description_short": "This is the main calendar for ClickHouse events held across the world!",
+      "website": "https://clickhouse.com/company/events",
+      "avatar_url": "https://images.lumacdn.com/calendars/51/49fd2c74-e80c-47eb-b708-80a17c8c5bd0.png",
+      "twitter_handle": "clickhousedb",
+      "instagram_handle": null,
+      "linkedin_handle": "/company/clickhouseinc"
+    },
+    "hosts": [
+      {
+        "name": "ClickHouse Team",
+        "username": "clickhouse",
+        "bio_short": "",
+        "website": "https://clickhouse.com/",
+        "avatar_url": "https://images.lumacdn.com/avatars/zn/7b855641-086d-45d1-9848-3a3d43642a08.png",
+        "twitter_handle": "ClickhouseDB",
+        "instagram_handle": null,
+        "linkedin_handle": "/company/clickhouseinc",
+        "tiktok_handle": null,
+        "youtube_handle": "ClickHouseDB",
+        "is_verified": false
+      },
+      {
+        "name": "Markos Sfikas",
+        "username": null,
+        "bio_short": "",
+        "website": null,
+        "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_26.png",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": null,
+        "tiktok_handle": null,
+        "youtube_handle": null,
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "Tech",
+        "slug": "tech"
+      }
+    ],
+    "ticket_info": {
+      "is_free": false,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": null,
+      "require_approval": true
+    },
+    "guest_count": 74,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-6qERVGADZkYde5i",
+    "url": "https://luma.com/qfq2hij5",
+    "name": "Building Enterprise AI Agents with RAG using UiPath SDK and LlamaIndex [Bengaluru Meetup]",
+    "description": "Agentic AI is reshaping how automation gets built — and this meetup is your practical introduction to building it with UiPath.\nWe'll walk through the UiPath SDK and CLI, explore LlamaIndex as a retrieval framework, and unpack the fundamentals of RAG (retrieval-augmented generation) — the technique powering knowledge-aware AI agents. You'll also see how UiPath Skills can package reusable capabilities that plug directly into your agents.\nCome ready to learn, ask questions, and connect with others navigating the intersection of RPA, LLMs, and agentic automation.\nDay's Discussions:\nIntroduction to coded agents\nWhat makes an agent \"coded\" vs visual- when to use each approach and where agentic AI is heading\nUiPath SDK — quick walkthrough\nCore SDK concepts, activity packages, and how to invoke automation from code\nLlamaIndex overview\nData connectors, query engines, and why LlamaIndex is the go-to framework for LLM-backed data retrieval\nRAG fundamentals\nChunking, embedding, vector stores, and retrieval — the building blocks behind any knowledge-augmented agent\nUiPath CLI for coding agents\nScaffolding, publishing, and running agents from the command line — the dev workflow end-to-end\nUiPath Skills for agents\nPackaging reusable capabilities as skills and exposing them to your agent at runtime\nObserve the speakers build a UiPath coded agent & go back home to try it yourself\nStep-by-step: wire up SDK + LlamaIndex + RAG into a fully working coded agent\n📅 Date:\n Saturday, 11th  July\n⏰ Time:\n 10:00 AM – 12:30 PM\n📍\nLocation:\n 7th Floor, UiPath, \nVajram ONYX, Devarabisanahalli, Bellandur, Bengaluru, Karnataka 560103\nCan't wait to meet you :P",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-07-11T04:30:00.000Z",
+    "end_at": "2026-07-11T07:00:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "cover_url": "https://images.lumacdn.com/uploads/ml/9250daef-4b9f-44b9-8894-f3b7dc88fcd6.png",
+    "social_image_url": "https://images.lumacdn.com/event-social/v2/ae153d80-bbb3-4a8c-8844-10e8320dc4d9.png",
+    "location": {
+      "address": "UiPath PE onyx, 75, Marathahalli - Sarjapur Outer Ring Rd, Devarabisanahalli, Bellandur, Bengaluru, Karnataka 560103, India",
+      "short_address": "75, Marathahalli - Sarjapur Outer Ring Rd, Devarabisanahalli, Bellandur, Bengaluru",
+      "venue_name": "UiPath PE onyx",
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "Devarabisanahalli",
+      "latitude": 12.930838399999999,
+      "longitude": 77.6873584
+    },
+    "calendar": {
+      "name": "Agent Builders Community",
+      "slug": "agentbuilders",
+      "description_short": "Welcome to the Agent Builders Community. We are a group focused on exploring the intersection of new technology, AI, Agents and automation. Let's learn, share, and grow together! 🔥",
+      "website": null,
+      "avatar_url": "https://images.lumacdn.com/calendars/42/b9141e37-c7c7-4e18-9d48-9121b4733522.png",
+      "twitter_handle": null,
+      "instagram_handle": null,
+      "linkedin_handle": null
+    },
+    "hosts": [
+      {
+        "name": "Suhani Singh",
+        "username": null,
+        "bio_short": null,
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/avatars/2k/fd5feaab-e268-41d8-9706-3d108f278dc1.jpg",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": "/in/suhani-singh02",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "AI",
+        "slug": "ai"
+      }
+    ],
+    "ticket_info": {
+      "is_free": true,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": null,
+      "require_approval": false
+    },
+    "guest_count": 170,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-9RCMPCEvN4CfqKH",
+    "url": "https://luma.com/agenticsummit",
+    "name": "Agentic Summit BLR",
+    "description": "Agentic Summit BLR\nA showcase of Agents and Agent Infrastructure.\n⚙️ \nFormat\n60 booths\nLive product demos\nInvestor talks\nOpen floor to explore and talk to teams\n👀 \nWho this is for\nEngineers and founders building Agents/Infra\nEnterprises evaluating Agents/Infra\nInvestors tracking the space\n📍 Bengaluru\n🎟️ Limited spots (applications reviewed)\nMore details to be shared soon.\nHighlights from our last event:\nhttps://magicball.dev/aifestival\nIf you’re building something, you can apply for a booth.",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-07-22T09:30:00.000Z",
+    "end_at": "2026-07-22T13:30:00.000Z",
+    "timezone": "Asia/Calcutta",
+    "cover_url": "https://images.lumacdn.com/event-covers/um/ee634b5f-19ab-418d-a9c4-2c4f4c3583f1.png",
+    "social_image_url": "https://images.lumacdn.com/event-social/bg/1bd66ed0-51c3-4a10-b2af-fe8d6e7c885e.png",
+    "location": {
+      "address": null,
+      "short_address": null,
+      "venue_name": null,
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": null,
+      "latitude": 12.961662869005595,
+      "longitude": 77.57586641383264
+    },
+    "calendar": {
+      "name": "Magicball",
+      "slug": "magicball",
+      "description_short": "India's largest community of AI Engineers. Over 15k+ founders, AI engineers, researchers and investors. HQ'd in Bangalore - join us at magicball.dev",
+      "website": "https://magicball.dev",
+      "avatar_url": "https://images.lumacdn.com/calendars/vv/d64dbe5a-f4de-4564-b7a4-25961ab3a752.png",
+      "twitter_handle": "Magicball_dev",
+      "instagram_handle": null,
+      "linkedin_handle": "/company/magic-ball"
+    },
+    "hosts": [
+      {
+        "name": "Grayscale Ventures",
+        "username": "grayscalevc",
+        "bio_short": "Early stage VC fund investing in Technical founders building Infrastructure/AI from India for the World",
+        "website": "https://grayscale.vc/",
+        "avatar_url": "https://images.lumacdn.com/avatars/yr/2f72b343-807a-4c2e-b4e1-b20456d30d14.png",
+        "twitter_handle": "grayscale_vc",
+        "instagram_handle": null,
+        "linkedin_handle": "/company/grayscale-vc",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      },
+      {
+        "name": "Vikram Bhandari",
+        "username": "vickyjain",
+        "bio_short": "Platform team @ Grayscale Ventures. \nBuilding India's Largest AI community",
+        "website": "https://grayscale.vc/",
+        "avatar_url": "https://images.lumacdn.com/avatars/4m/d9f8ab50-a578-4726-b744-ed48a4fe4979",
+        "twitter_handle": "VickyJain312",
+        "instagram_handle": "_vickyjain",
+        "linkedin_handle": "/in/vikrambhandarijain",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      },
+      {
+        "name": "Sid Verma",
+        "username": null,
+        "bio_short": "Partner @ Grayscale Ventures",
+        "website": "https://grayscale.vc/",
+        "avatar_url": "https://images.lumacdn.com/avatars/l8/bd3800a4-2443-4ff1-af35-5a85019da2d7",
+        "twitter_handle": "sydverma",
+        "instagram_handle": null,
+        "linkedin_handle": "/in/sydverma",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      },
+      {
+        "name": "Nikhil Kapur",
+        "username": "nikhilk",
+        "bio_short": "GP at Grayscale Ventures",
+        "website": "https://grayscale.vc",
+        "avatar_url": "https://images.lumacdn.com/avatars/an/1a7f3cb0-3710-4e96-8f6d-69c90b73abbc",
+        "twitter_handle": "grayscale_vc",
+        "instagram_handle": null,
+        "linkedin_handle": "/in/kapurnikhil",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "AI",
+        "slug": "ai"
+      }
+    ],
+    "ticket_info": {
+      "is_free": false,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": null,
+      "require_approval": true
+    },
+    "guest_count": 0,
+    "registration_availability": "open",
+    "waitlist_active": false
+  },
+  {
+    "api_id": "evt-ad7IIFc1VqRmHOB",
+    "url": "https://luma.com/b309mhdi",
+    "name": "PLG Breakdown: Uber",
+    "description": "Join us for an exclusive, product-manager-only session where a  Product-Led Growth (PLG) professional will uncover untapped growth levers within Uber.\nThis deep-dive session will focus on using PLG frameworks to enhance user activation, engagement, and retention—ultimately driving sustainable revenue growth.\nThrough case studies, data-backed insights, and actionable strategies, attendees will learn how to identify opportunities across the product funnel and design experiments that directly impact business outcomes.\nHighlights:\nDiscover practical PLG opportunities tailored to Uber's user journeys\nLearn how to align product decisions with revenue outcomes\nGet frameworks to drive growth without heavy marketing spends\nOpen Q&A and peer discussion with fellow product managers\nWho Can Attend:\nThis event is exclusively open to \nProduct Managers\n passionate about driving growth through product innovation.\n---\nNote: We are not associated with Uber, their product is being used to demonstrate opportunities for educational purpose only.",
+    "event_type": "independent",
+    "location_type": "offline",
+    "visibility": "public",
+    "start_at": "2026-08-02T05:30:00.000Z",
+    "end_at": "2026-08-02T07:00:00.000Z",
+    "timezone": "Asia/Calcutta",
+    "cover_url": "https://images.lumacdn.com/event-covers/yf/5f9dfae8-6e77-4d6b-af69-3a3bb190481e.png",
+    "social_image_url": "https://images.lumacdn.com/event-social/bm/9c3e4d50-042c-47e1-a64b-56c0f5eb15f9.png",
+    "location": {
+      "address": null,
+      "short_address": null,
+      "venue_name": null,
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "sublocality": "Santhosapuram",
+      "latitude": 12.918076406703833,
+      "longitude": 77.62924801907316
+    },
+    "calendar": {
+      "name": "Product Reactor",
+      "slug": "productreactor",
+      "description_short": "The official IRL community of the Product Reactor school.",
+      "website": "https://productreactor.net/",
+      "avatar_url": "https://images.lumacdn.com/calendars/az/731e5edb-9d9c-4899-9f00-9da47b5f5e9a.png",
+      "twitter_handle": null,
+      "instagram_handle": null,
+      "linkedin_handle": null
+    },
+    "hosts": [
+      {
+        "name": "Prabhakaran",
+        "username": null,
+        "bio_short": "",
+        "website": null,
+        "avatar_url": "https://images.lumacdn.com/avatars/j9/840188bf-6c94-4658-b541-91014588a8bc.png",
+        "twitter_handle": null,
+        "instagram_handle": null,
+        "linkedin_handle": "/in/shiva-prabhakaran",
+        "tiktok_handle": null,
+        "youtube_handle": "",
+        "is_verified": false
+      }
+    ],
+    "categories": [
+      {
+        "name": "Tech",
+        "slug": "tech"
+      }
+    ],
+    "ticket_info": {
+      "is_free": false,
+      "price": null,
+      "max_price": null,
+      "is_sold_out": false,
+      "spots_remaining": null,
+      "require_approval": true
+    },
+    "guest_count": 111,
+    "registration_availability": "open",
+    "waitlist_active": false
+  }
+]
