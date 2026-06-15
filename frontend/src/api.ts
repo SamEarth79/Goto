@@ -8,7 +8,8 @@ export async function fetchPlaces(lat?: number, lng?: number, query: string = DE
     params.set('lat', String(lat))
     params.set('lng', String(lng))
   }
-  const res = await fetch(`/api/search?${params.toString()}`)
+  const base = import.meta.env.VITE_API_URL ?? ''
+  const res = await fetch(`${base}/api/search?${params.toString()}`)
   if (!res.ok) throw new Error(`Search failed: ${res.status}`)
   return res.json()
 }

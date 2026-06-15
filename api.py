@@ -5,6 +5,8 @@ Run:
     .venv/bin/uvicorn api:app --reload --port 8000
 """
 
+import os
+
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
 from sentence_transformers import SentenceTransformer
@@ -14,10 +16,12 @@ import json
 
 app = FastAPI(title="GoTo Bengaluru API")
 
+_origins = os.environ.get("ALLOWED_ORIGINS", "*").split(",")
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_methods=["*"],
+    allow_origins=_origins,
+    allow_methods=["GET"],
     allow_headers=["*"],
 )
 
